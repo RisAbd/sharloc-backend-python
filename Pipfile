@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 django = "*"
 pip = "==18.0.*"
+django-channels = "*"
+python-decouple = "*"
 
 [dev-packages]
 
